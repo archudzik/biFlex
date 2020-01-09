@@ -1,7 +1,6 @@
 # BiFlex HTML Parser #
 
 ```
-#!text
 HTML Parser using Lex/Yacc
 by archudzik@gmail.com
 License: GPL
